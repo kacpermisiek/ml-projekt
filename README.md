@@ -9,7 +9,37 @@ loss - sparse categorical crossentropy
 metrics - accuracy  
 
 Wynik:
-### TODO: dodac wykresy accuracy i loss
+Wyniki ostatniej epoki:  
+accuracy: 0.9991  
+loss: 0.0057  
+val_accuracy: 1.0000  
+
+
+Test accuracy: 0.993%
+
+Classification report:
+              precision    recall  f1-score   support  
+
+           0       1.00      0.98      0.99       100  
+           1       1.00      1.00      1.00       100  
+           2       1.00      0.98      0.99       100  
+           3       1.00      1.00      1.00       100  
+           4       0.98      1.00      0.99       100  
+           5       0.98      1.00      0.99       100  
+
+    accuracy                           0.99       600  
+   macro avg       0.99      0.99      0.99       600  
+weighted avg       0.99      0.99      0.99       600  
+
+
+Wykresy:
+![image](https://github.com/kacpermisiek/ml-projekt/assets/56176866/8eedccbe-aaad-4804-a679-f8442f243ce1)
+
+
+Macierze błędów:
+
+
+
 
 
 # Czas treningu: ~90 minut
