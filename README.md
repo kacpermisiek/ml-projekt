@@ -38,6 +38,8 @@ Wykresy:
 
 
 Macierze błędów:
+Zbiór testowy:  
+![image](https://github.com/kacpermisiek/ml-projekt/assets/56176866/47c32c10-e97a-4adc-95d9-a065eae21713)
 
 
 
