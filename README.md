@@ -1,4 +1,4 @@
-# Wykorzystano model EfficentNetB3
+# Wykorzystano model EfficentNetB3 z wagami inicjalizacyjnymi zbioru ImageNet
 
 ## Parametry:
 lr - 0.0001  
