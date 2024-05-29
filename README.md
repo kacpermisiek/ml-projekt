@@ -18,8 +18,8 @@ val_accuracy: 1.0000
 Test accuracy: 0.993%
 
 Classification report:
-              precision    recall  f1-score   support  
 
+              precision    recall  f1-score   support  
            0       1.00      0.98      0.99       100  
            1       1.00      1.00      1.00       100  
            2       1.00      0.98      0.99       100  
