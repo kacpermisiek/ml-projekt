@@ -1,12 +1,12 @@
 # Wykorzystano model EfficentNetB3
 
 ## Parametry:
-lr - 0.0001
-epochs - 10
-batch_size - 32
-optimizer - Adam
-loss - sparse categorical crossentropy
-metrics - accuracy
+lr - 0.0001  
+epochs - 10  
+batch_size - 32  
+optimizer - Adam  
+loss - sparse categorical crossentropy  
+metrics - accuracy  
 
 Wynik:
 ### TODO: dodac wykresy accuracy i loss
