@@ -33,15 +33,15 @@ weighted avg       0.99      0.99      0.99       600
 ```
 
 
-Wykresy:
+Wykresy:  
 ![image](https://github.com/kacpermisiek/ml-projekt/assets/56176866/8eedccbe-aaad-4804-a679-f8442f243ce1)
 
 
-Macierze błędów:
+Macierze błędów:  
 Zbiór testowy:  
 ![image](https://github.com/kacpermisiek/ml-projekt/assets/56176866/c9267f20-f5c1-4fa1-bfd9-2eabc6851d2b)
   
-Zbiór walidacyjny:
+Zbiór walidacyjny:  
 ![image](https://github.com/kacpermisiek/ml-projekt/assets/56176866/0af8f8b9-7dac-459b-8ffa-56731a574241)
 
 
