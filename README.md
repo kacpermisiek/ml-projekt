@@ -44,8 +44,8 @@ Zbiór testowy:
 Zbiór walidacyjny:  
 ![image](https://github.com/kacpermisiek/ml-projekt/assets/56176866/0af8f8b9-7dac-459b-8ffa-56731a574241)
 
-
-
+Błędy na zbiorze testowym:  
+![image](https://github.com/kacpermisiek/ml-projekt/assets/56176866/7d86ccc8-d5e9-4064-87a9-540330600969)
 
 
 
