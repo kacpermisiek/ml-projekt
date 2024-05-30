@@ -39,11 +39,11 @@ Wykresy:
 
 Macierze błędów:
 Zbiór testowy:  
-![image](https://github.com/kacpermisiek/ml-projekt/assets/56176866/47c32c10-e97a-4adc-95d9-a065eae21713)
-
+![image](https://github.com/kacpermisiek/ml-projekt/assets/56176866/c9267f20-f5c1-4fa1-bfd9-2eabc6851d2b)
   
 Zbiór walidacyjny:
-![image](https://github.com/kacpermisiek/ml-projekt/assets/56176866/7d553529-2c72-449e-be92-474010764d34)
+![image](https://github.com/kacpermisiek/ml-projekt/assets/56176866/0af8f8b9-7dac-459b-8ffa-56731a574241)
+
 
 
 
