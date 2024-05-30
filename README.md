@@ -23,7 +23,7 @@ Test accuracy: 0.993%
 Wykresy:  
 ![image](https://github.com/kacpermisiek/ml-projekt/assets/56176866/8eedccbe-aaad-4804-a679-f8442f243ce1)
 #### Zaskakujące jest, iż model bardzo szybko uzyskał wysoką skuteczność (powyżej 97 procent po pierwszej epoce)
-#### Na uwagę zasługuje również fakt, że skuteczność na zbiorze walidującym jest wyższa, niż na zbiorze testowym (wartości ta nie jest znacząco wyższa, natomiast była wyższa od skutecznośći na zbiorze trenującym w każdej epoce)
+#### Na uwagę zasługuje również fakt, że skuteczność na zbiorze walidującym jest wyższa, niż na zbiorze testowym (wartości ta nie jest znacząco wyższa, natomiast była wyższa od skutecznośći na zbiorze trenującym w prawie każdej epoce)
 
 Oba te zdarzenia mogą wynikać z faktu iż EfficenNetB3 jest modelem pretrenowanym na zbiorze ImageNet.  
 
