@@ -1,5 +1,7 @@
 # Wykorzystano model EfficentNetB3 z wagami inicjalizacyjnymi zbioru ImageNet
 
+### Link do notebooka: https://www.kaggle.com/code/kacpermisiek/gtsrb-efficentnetb3
+
 ## Parametry:
 lr - 0.0001  
 epochs - 10  
