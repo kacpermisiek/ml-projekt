@@ -50,6 +50,7 @@ Zbiór walidacyjny:
 
 
 # Czas treningu: ~90 minut
+## GPU: Testla P100
 
 
 Zauważono, że skuteczność jest bardzo wysoka już na 3 epoce, dalsze epoki nie wnoszą już przyrostu skuteczności, 
